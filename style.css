@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.heading{
+    color: #133B5A; 
+    font-weight: bold;
+    font-size: 24px;
+    margin: 22px 0;
+}
+.news-text{
+    color: #000000;
+    font-size: 18px;
+    line-height: 28px;
+}
+.news-img{
+    min-height: 45px;
+}
+img{
+    height: 100%;
+}
